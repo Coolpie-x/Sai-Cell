@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <section id="contact">
       
-      <footer className="lg:h-[25vw] w-full flex flex-col lg:flex-row lg:justify-around items-center justify-center lg:border-b-4 border-white relative bg-gradient-to-r from-black to-black text-white lg:p-[4vw] py-[0vw] px-[5vw]">
+      <footer className="lg:h-[25vw] w-full flex flex-col lg:flex-row lg:justify-around items-center justify-center lg:border-b-4 border-white relative bg-gradient-to-r from-black to-black text-white lg:py-[6vw] lg:px-[4vw] py-[0vw] px-[5vw]">
         <img className="h-[35vw] w-[30vw]  lg:h-[8vw] lg:w-auto lg:my-[1vw] "
           src="./saiclogo.png"
           alt=""/>
