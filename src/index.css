@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background:black;
+  
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: white;
+    border-radius: 5px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: white;
+  }
+  @font-face {
+    font-family: 'GilR';
+    src: url('./assets/gilroy/Gilroy-Regular.ttf');
+}
+@font-face {
+  font-family: 'GilB';
+  src: url('./assets/gilroy/Gilroy-ExtraBold.ttf');
+
+}
+@font-face {
+  font-family: 'GilI';
+  src: url('./assets/gilroy/Gilroy-RegularItalic.ttf');
+}
+
+
+body {
+  font-family: 'GilR';
+}
+
+ h1{
+  font-family: 'GilB'
+} 
