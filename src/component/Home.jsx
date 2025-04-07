@@ -45,7 +45,7 @@ const Home = () => {
       {/* Loader overlay */}
       <div
         className={`fixed top-0 left-0 w-full h-full z-50 transition-transform duration-1000 ease-in-out ${
-          loading ? "translate-y-0" : "-translate-y-1000 md:-translate-y-1000 lg:-translate-y-500"
+          loading ? "translate-y-0" : "-translate-y-500 md:-translate-y-1000 lg:-translate-y-500"
         }`}
       >
         <Loading />
