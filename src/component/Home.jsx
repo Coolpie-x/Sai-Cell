@@ -45,7 +45,7 @@ const Home = () => {
       {/* Loader overlay */}
       <div
         className={`fixed top-0 left-0 w-full h-full z-50 transition-transform duration-1000 ease-in-out ${
-          loading ? "translate-y-0" : "-translate-y-300"
+          loading ? "translate-y-0" : "-translate-y-full md:-translate-y-1000 lg:-translate-y-500"
         }`}
       >
         <Loading />
@@ -56,12 +56,12 @@ const Home = () => {
       <section id="home">
         <div className="h-full w-full bg-black w-full flex flex-col items-center relative gap-[1vw] overflow-hidden top-0 left-0">
           <img
-            className="relative h-[100vh] lg:h-[48vw] w-full object-cover opacity-[.4]"
+            className="relative h-[100vh] lg:h-screen w-full object-cover opacity-[.4]"
             src="./landing.jpg"
             alt=""
           />
 
-          <div className="h-[100vh] lg:h-[45vw] w-full absolute z-10 top-0 left-0 flex flex-col items-center justify-center">
+          <div className={`h-[100vh] lg:h-[${screen}] w-full absolute z-10 top-0 left-0 flex flex-col items-center justify-center`}>
             <div className="hero overflow-hidden">
               <h1 className="text-white w-full lg:text-[6.5vw] text-[11vw] font-bold uppercase text-center lg:leading-[7vw] leading-[11vw]">
                 students' alumni
@@ -74,7 +74,7 @@ const Home = () => {
             </div>
           </div>
 
-          <div className="shadow h-[98vh] lg:h-[45vw] w-full absolute z-0 top-0 right-1.5 lg:right-1.5 flex flex-col items-center justify-center ">
+          <div className={`shadow h-[98vh] lg:h-[${screen}] w-full absolute z-0 top-0 right-1.5 lg:right-1.5 flex flex-col items-center justify-center`}>
             <div className="overflow-hidden">
               <h1 className="text-orange-100 opacity-[.4] w-full text-[11vw] lg:text-[6.5vw] font-bold uppercase text-center lg:leading-[7vw]">
                 students' alumni
