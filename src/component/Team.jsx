@@ -312,7 +312,7 @@ const Team = () => {
           },
           {
             name: "Joys Pakalapati",
-            img: "https://res.cloudinary.com/disucyhiq/image/upload/v1743931405/Pakalpati_Joys_didi_g3c1gn.jpg",
+            img: "https://res.cloudinary.com/disucyhiq/image/upload/v1744228917/WhatsApp_Image_2025-03-28_at_11.00.58_AM_oczar6.jpg",
             designation: "Executive Member",
             linkedin: "https://www.linkedin.com/in/joy-samuel-1b9246288",
             insta: "https://www.instagram.com/joy_pakalapati"
@@ -333,7 +333,7 @@ const Team = () => {
           },
           {
             name: "Satyake Sadhukhan",
-            img: "https://res.cloudinary.com/disucyhiq/image/upload/v1743931404/Satyake_bhaiya_vobdrt.jpg",
+            img: "https://res.cloudinary.com/disucyhiq/image/upload/v1744228919/WhatsApp_Image_2025-04-09_at_11.31.18_PM_g0hdbn.jpg",
             designation: "Executive Member",
             linkedin: "https://www.linkedin.com/in/satyake-sadhukhan-6260a8334",
             insta: "https://www.instagram.com/satyakesadhukhan"
@@ -376,7 +376,7 @@ const Team = () => {
     
     {
             name: "Piyush Raj",
-            img: "https://res.cloudinary.com/disucyhiq/image/upload/v1744043480/photo_2025-04-07_21-59-59_i8jaq7.jpg",
+            img: "https://res.cloudinary.com/disucyhiq/image/upload/v1744228921/photo_2025-04-07_21-59-59_i8jaq7_ilinc7.jpg",
             designation: "Executive Member",
             linkedin: "n/a",
             insta: "https://www.instagram.com/piyush_coolpie?igsh=eDB4NWt3bGU1cDJh"
