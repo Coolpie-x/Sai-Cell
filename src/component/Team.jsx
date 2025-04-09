@@ -368,7 +368,7 @@ const Team = () => {
           },
     {
             name: "Beas",
-            img: "https://res.cloudinary.com/disucyhiq/image/upload/v1744043475/WhatsApp_Image_2025-04-06_at_6.11.44_PM_fmqphq.jpg",
+            img: "https://res.cloudinary.com/disucyhiq/image/upload/v1744222055/WhatsApp_Image_2025-04-06_at_6.11.44_PM_fmqphq_bi0ta0.jpg",
             designation: "Executive Member",
             linkedin: "https://www.linkedin.com/in/beas-das-00a4b5351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
             insta: "https://www.instagram.com/kookoomberriee?igsh=MTY3dXpod29vZTE2OA=="
