@@ -339,7 +339,7 @@ const Team = () => {
             insta: "https://www.instagram.com/satyakesadhukhan"
           },
           {
-            name: "Shafiya Tasneem Shaik",
+            name: "Shaik Safiya Tasneem",
             img: "https://res.cloudinary.com/disucyhiq/image/upload/v1743931404/Safiya_didi_uxbe9m.jpg",
             designation: "Executive Member",
             linkedin: "https://www.linkedin.com/in/safiya-tasneem-901667217",
@@ -368,7 +368,7 @@ const Team = () => {
           },
     {
             name: "Beas",
-            img: "https://res.cloudinary.com/disucyhiq/image/upload/v1743960288/WhatsApp_Image_2025-04-06_at_6.11.44_PM_oirypl.jpg",
+            img: "https://res.cloudinary.com/disucyhiq/image/upload/v1744043475/WhatsApp_Image_2025-04-06_at_6.11.44_PM_fmqphq.jpg",
             designation: "Executive Member",
             linkedin: "https://www.linkedin.com/in/beas-das-00a4b5351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
             insta: "https://www.instagram.com/kookoomberriee?igsh=MTY3dXpod29vZTE2OA=="
@@ -376,8 +376,8 @@ const Team = () => {
     
     {
             name: "Piyush Raj",
-            img: "https://res.cloudinary.com/disucyhiq/image/upload/v1743931025/WhatsApp_Image_2025-04-06_at_1.48.18_PM_rs2qct.jpg",
-            designation: "destruction",
+            img: "https://res.cloudinary.com/disucyhiq/image/upload/v1744043480/photo_2025-04-07_21-59-59_i8jaq7.jpg",
+            designation: "Executive Member",
             linkedin: "n/a",
             insta: "https://www.instagram.com/piyush_coolpie?igsh=eDB4NWt3bGU1cDJh"
           },
